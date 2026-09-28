@@ -26,15 +26,19 @@ Power it on and RetroBridge boots directly into a custom 8-bit Time Machine inte
 
 ## Gallery
 
-| Apple-1 | Apple II |
+| Apple-1 | TRS-80 Model I |
 |---|---|
-| ![Apple-1](images/RetroBridge-AppleI.png) | ![Apple II](images/RetroBridge-AppleII.png) |
+| ![Apple-1](images/RetroBridge-AppleI.png) | ![TRS-80 Model I](images/RetroBridge-TRS80.png) |
 
-| IBM PC | Commodore 64 |
+| Apple II | IBM PC |
 |---|---|
-| ![IBM PC](images/RetroBridge-IBMPC.png) | ![Commodore 64](images/RetroBridge-C64.png) |
+| ![Apple II](images/RetroBridge-AppleII.png) | ![IBM PC](images/RetroBridge-IBMPC.png) |
 
-> TRS-80 image will be added to the gallery as soon as the final image is uploaded.
+### Commodore 64
+
+![Commodore 64](images/RetroBridge-C64.png)
+
+The C64 image intentionally stops at **ENTER COMPUTER** as a teaser for the final stop in the RetroBridge timeline.
 
 ## Why RetroBridge?
 
