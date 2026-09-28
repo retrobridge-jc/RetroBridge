@@ -38,7 +38,15 @@ Power it on and RetroBridge boots directly into a custom 8-bit Time Machine inte
 
 ![Commodore 64](images/RetroBridge-C64.png)
 
-The C64 image intentionally stops at **ENTER COMPUTER** as a teaser for the final stop in the RetroBridge timeline.
+## Optional retro enclosure concept
+
+![RetroBridge enclosure concept](images/RetroBridge-Enclosure-Concept.png)
+
+The gallery uses a single period-inspired enclosure design so the project visuals, build concept, and system screenshots stay consistent.
+
+**Important:** the enclosure shown above is a **3D-printable enclosure concept/design target**. It is not yet an engineering-validated STL/CAD package. Dimensions, port clearances, thermal behavior, fastener placement, print tolerances, and assembly details still need physical validation before printable files are published.
+
+The validated V1.1 reference appliance currently uses the off-the-shelf GeeekPi/52Pi 3.5-inch touchscreen enclosure.
 
 ## Why RetroBridge?
 
@@ -56,7 +64,7 @@ RetroBridge is not intended to be a generic emulator launcher. It is a purpose-b
 
 ## Hardware
 
-The reference build uses:
+The validated reference build uses:
 
 - Raspberry Pi 5 Model B, 8 GB
 - GeeekPi 3.5-inch 480x320 HDMI touchscreen enclosure
