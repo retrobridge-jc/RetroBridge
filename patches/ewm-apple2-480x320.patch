@@ -1,0 +1,21 @@
+--- ewm/src/two.rs.orig-retrobridge
++++ ewm/src/two.rs
+@@ -3611,7 +3611,7 @@
+-        .window(&title, 280 * 3 + 2 * pad, 192 * 3 + 2 * pad)
++        .window(&title, 280 + 2 * pad, 192 + 2 * pad)
+@@ -3633,8 +3633,8 @@
+-            SCR_WIDTH as u32 * 3 + 2 * pad,
+-            SCR_HEIGHT as u32 * 3 + 2 * pad,
++            SCR_WIDTH as u32 + 2 * pad,
++            SCR_HEIGHT as u32 + 2 * pad,
+@@ -4101,12 +4101,12 @@
+-                                    SCR_WIDTH as u32 * 3 + 2 * pad,
+-                                    SCR_HEIGHT as u32 * 3 + 2 * pad + extra,
++                                    SCR_WIDTH as u32 + 2 * pad,
++                                    SCR_HEIGHT as u32 + 2 * pad + extra,
+                                 );
+                                 let _ = canvas.set_logical_size(
+-                                    SCR_WIDTH as u32 * 3 + 2 * pad,
+-                                    SCR_HEIGHT as u32 * 3 + 2 * pad + extra,
++                                    SCR_WIDTH as u32 + 2 * pad,
++                                    SCR_HEIGHT as u32 + 2 * pad + extra,
