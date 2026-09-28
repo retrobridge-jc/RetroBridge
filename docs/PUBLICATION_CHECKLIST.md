@@ -18,11 +18,15 @@
 - [x] EWM sizing supplied as patch files rather than modified upstream source
 - [x] GitHub URL added to Hackaday draft
 - [x] Release notes prepared
+- [x] Git tag/release `v1.1` published
+- [x] Matched RetroBridge image set uploaded
+- [x] Enclosure concept image added
+- [x] README/gallery updated for matched enclosure design
 
 ## Remaining publication mechanics
 
-- [ ] Upload curated image assets to GitHub
 - [ ] Publish Hackaday project and add its URL to README
 - [ ] Record short demo video
 - [ ] Add video link
-- [ ] Create Git tag/release `v1.1`
+- [ ] Create and physically validate CAD/STL enclosure files before calling the enclosure printable/production-ready
+- [ ] Consider a follow-up release after final artwork/CAD changes are complete
