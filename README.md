@@ -1,5 +1,7 @@
 # RetroBridge
 
+![RetroBridge V1.1](images/RetroBridge.png)
+
 ## Project links
 
 - **GitHub repository:** https://github.com/retrobridge-jc/RetroBridge
@@ -21,6 +23,18 @@ RetroBridge is a Raspberry Pi 5 appliance that turns a 3.5-inch, 480x320 touchsc
 Power it on and RetroBridge boots directly into a custom 8-bit Time Machine interface instead of presenting a Linux desktop.
 
 > **Modern hardware. Historic computing.**
+
+## Gallery
+
+| Apple-1 | Apple II |
+|---|---|
+| ![Apple-1](images/RetroBridge-AppleI.png) | ![Apple II](images/RetroBridge-AppleII.png) |
+
+| IBM PC | Commodore 64 |
+|---|---|
+| ![IBM PC](images/RetroBridge-IBMPC.png) | ![Commodore 64](images/RetroBridge-C64.png) |
+
+> TRS-80 image will be added to the gallery as soon as the final image is uploaded.
 
 ## Why RetroBridge?
 
