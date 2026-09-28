@@ -1,0 +1,10 @@
+--- ewm/src/one.rs.orig-retrobridge
++++ ewm/src/one.rs
+@@ -903,7 +903,7 @@
+-        .window(&title, 280 * 3 + 2 * pad, 192 * 3 + 2 * pad)
++        .window(&title, 280 + 2 * pad, 192 + 2 * pad)
+@@ -925,8 +925,8 @@
+-            TTY_PIXEL_WIDTH as u32 * 3 + 2 * pad,
+-            TTY_PIXEL_HEIGHT as u32 * 3 + 2 * pad,
++            TTY_PIXEL_WIDTH as u32 + 2 * pad,
++            TTY_PIXEL_HEIGHT as u32 + 2 * pad,
