@@ -23,17 +23,19 @@ RetroBridge is a hands-on computing time machine built around a Raspberry Pi 5 a
 
 These are not static screenshots. They are usable computing environments.
 
-The Apple-1 takes you into Woz Monitor and Integer BASIC. The TRS-80 provides a Level-II-BASIC-compatible programming environment. The Apple II runs through EWM. The IBM PC drops into a DOS environment. The Commodore 64 is there at the end of the timeline — but I deliberately stop the public screenshots at **ENTER COMPUTER**. Build RetroBridge and open that door yourself.
+The Apple-1 takes you into Woz Monitor and Integer BASIC. The TRS-80 provides a Level-II-BASIC-compatible programming environment. The Apple II runs through EWM. The IBM PC drops into a DOS environment. The Commodore 64 completes the timeline with a VICE-based C64 environment using Debian open replacement ROMs.
 
 ## Main image
 
-**Use:** `images/retrobridge_cover_3d_printable_concept.png`
+**Use:** `images/RetroBridge.png`
+
+**Supporting enclosure image:** `images/RetroBridge-Enclosure-Concept.png`
 
 **Caption:**
 
-> RetroBridge optional 3D-printable enclosure concept. The validated reference build uses an off-the-shelf GeeekPi/52Pi 3.5-inch touchscreen enclosure; this rendering shows a period-inspired printable enclosure direction for makers who want a more complete late-1970s/early-1980s aesthetic.
+> RetroBridge V1.1 with a period-inspired 3D-printable enclosure concept. The validated reference appliance uses an off-the-shelf GeeekPi/52Pi 3.5-inch touchscreen enclosure; the rendered enclosure is a design target for future printable CAD/STL work.
 
-The rendering is a design concept, not yet an engineering-validated STL.
+The enclosure rendering is a concept, not yet an engineering-validated printable package.
 
 ## Why I built it
 
@@ -60,7 +62,7 @@ The validated reference build uses:
 - USB keyboard
 - Raspberry Pi OS / Debian 13 Trixie
 
-The project also includes an optional retro enclosure concept for future 3D-print/CAD development.
+The project also includes a matched period-inspired enclosure concept for future 3D-print/CAD development. The concept is not yet a validated printable enclosure.
 
 ## Software architecture
 
@@ -167,13 +169,7 @@ DOSBox mounts RetroBridge's PC program directory as drive C: and presents a usab
 
 ### 1982 — Commodore 64
 
-RetroBridge ends its current journey at one of the best-known home computers ever made.
-
-The public gallery intentionally stops at:
-
-> **1982 — COMMODORE 64 — ENTER COMPUTER**
-
-The rest is for the builder to discover.
+VICE provides the final stop in the current RetroBridge timeline using Debian open replacement ROMs.
 
 ## What I learned
 
