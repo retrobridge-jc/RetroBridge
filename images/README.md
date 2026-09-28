@@ -1,15 +1,17 @@
 # Images
 
-The publication package includes a curated gallery and optional enclosure concept.
+Current RetroBridge V1.1 publication images:
 
-Recommended GitHub/Hackaday assets:
+- `RetroBridge.png` — primary RetroBridge cover / Time Machine image
+- `RetroBridge-AppleI.png` — Apple-1
+- `RetroBridge-AppleII.png` — Apple II
+- `RetroBridge-IBMPC.png` — IBM PC
+- `RetroBridge-C64.png` — Commodore 64 teaser
 
-- `retrobridge_cover_3d_printable_concept.png`
-- `gallery/01_time_machine_menu.jpg`
-- `gallery/02_apple1_woz_monitor.jpg`
-- `gallery/03_trs80_model1.jpg`
-- `gallery/04_apple2_ewm.jpg`
-- `gallery/05_ibm_pc_dosbox.jpg`
-- `gallery/06_c64_enter_computer_teaser.jpg`
+Still to add:
 
-The enclosure image is a concept rendering, not an engineering-validated STL.
+- `RetroBridge-TRS80.png` — TRS-80 Model I
+
+These images use the new period-inspired RetroBridge enclosure design for a consistent GitHub and Hackaday visual identity.
+
+The enclosure design is a concept rendering, not yet an engineering-validated STL.
