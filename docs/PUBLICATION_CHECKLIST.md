@@ -22,6 +22,7 @@
 - [x] Matched RetroBridge image set uploaded
 - [x] Enclosure concept image added
 - [x] README/gallery updated for matched enclosure design
+- [x] Instructables build guide published and linked from README
 
 ## Remaining publication mechanics
 
