@@ -26,7 +26,7 @@
 
 ## Remaining publication mechanics
 
-- [ ] Publish Hackaday project and add its URL to README
+- [x] Hackaday project published and linked from README
 - [ ] Record short demo video
 - [ ] Add video link
 - [ ] Create and physically validate CAD/STL enclosure files before calling the enclosure printable/production-ready
