@@ -49,6 +49,8 @@ The gallery uses a single period-inspired enclosure design so the project visual
 
 The validated V1.1 reference appliance currently uses the off-the-shelf GeeekPi/52Pi 3.5-inch touchscreen enclosure.
 
+For the contest-focused overview, see [`HACKADAY_CONTEST_2026.md`](HACKADAY_CONTEST_2026.md).
+
 ## Why RetroBridge?
 
 RetroBridge is not intended to be a generic emulator launcher. It is a purpose-built computing-history appliance with:
@@ -150,7 +152,7 @@ Original RetroBridge project code and documentation are covered by [`LICENSE`](L
 
 Third-party emulators, ROMs, firmware, operating systems, games, disk images, and other software retain their own rights and licenses. Do not add proprietary ROMs or commercial software to a public fork without redistribution rights.
 
-Read [`LICENSES.md`](LICENSES.md), [`docs/LICENSING.md`](docs/LICENSING.md), and [`docs/THIRD_PARTY.md`](docs/THIRD_PARTY.md).
+Read [`NOTICE.md`](NOTICE.md), [`LICENSES.md`](LICENSES.md), [`docs/LICENSING.md`](docs/LICENSING.md), and [`docs/THIRD_PARTY.md`](docs/THIRD_PARTY.md).
 
 **RetroBridge is an integration platform, not a software archive.**
 
