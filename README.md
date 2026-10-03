@@ -6,7 +6,7 @@
 
 - **GitHub repository:** https://github.com/retrobridge-jc/RetroBridge
 - **Instructables build guide:** https://www.instructables.com/RetroBridge-Build-a-Raspberry-Pi-5-Computing-Time-/
-- **Hackaday project:** `HACKADAY_URL_GOES_HERE`
+- **Hackaday project:** https://hackaday.io/project/206869-retrobridge-five-computers-one-time-machine
 - **V1.1 release:** https://github.com/retrobridge-jc/RetroBridge/releases/tag/v1.1
 
 ## Five Computers. Six Years. One Computing Time Machine.
