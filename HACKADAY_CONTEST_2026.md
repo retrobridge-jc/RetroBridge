@@ -72,3 +72,7 @@ https://www.instructables.com/RetroBridge-Build-a-Raspberry-Pi-5-Computing-Time-
 ## Source
 
 https://github.com/retrobridge-jc/RetroBridge
+
+## Hackaday project
+
+https://hackaday.io/project/206869-retrobridge-five-computers-one-time-machine
